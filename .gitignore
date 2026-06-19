@@ -1,0 +1,59 @@
+# dependencies
+/node_modules
+/npm-debug.log*
+/yarn-error.log
+/yarn.lock
+/package-lock.json
+/yarn-debug.log*
+/pnpm-debug.log*
+/.pnpm-debug.log*
+/pnpm-lock.yaml
+
+# production
+/dist
+/build
+/.umi
+/.umi-production
+/.umi-test
+/dll
+
+# misc
+.DS_Store
+*.swp
+*.log
+*.tmp
+*.temp
+
+# tests
+/coverage
+/.nyc_output
+
+# ide
+/.idea
+/.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+
+# env
+.env.local
+.env.*.local
+
+# cache
+.cache
+.npm
+.eslintcache
+.stylelintcache
+*.tsbuildinfo
+
+# umi
+.umi
+.umi-production
+.umi-test
